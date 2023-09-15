@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/GitHub/MTT_codes/mtt0"
+		},
+		{
+			"name": "RPMcont",
+			"path": "../../../Documents/PlatformIO/Projects/RPMcont"
+		},
+		{
+			"name": "ESP32ledblink",
+			"path": "../../../Documents/PlatformIO/Projects/ESP32ledblink"
+		},
+		{
+			"name": "blink mtt",
+			"path": "../../../Documents/PlatformIO/Projects/blink mtt"
+		},
+		{
+			"name": "ESP32 blink",
+			"path": "../../../Documents/PlatformIO/Projects/ESP32 blink"
+		}
+	],
+	"settings": {}
+}
