@@ -27,7 +27,7 @@ int main() {
     }
     printf(" \n");
 
-//The sorting algorithem 
+//The sorting algorithem (New)
 
     while(1==1){
         while (n < 8){
@@ -61,3 +61,5 @@ int main() {
 
     return 0;
 }
+
+//kuch bhi likh na 
