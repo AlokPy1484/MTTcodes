@@ -29,7 +29,7 @@ int main() {
 
 //The sorting algorithem (New)
 
-    while(1==1){
+    for(int i = 0; i < 7; i++){
         while (n < 8){
 
             if (num[n] > num[n+1]){
@@ -38,28 +38,19 @@ int main() {
                 num[n+1] = b;
                 b = 0;}
 
-
-            for(int i = 0;i < 8;){
+            //To print the list
+            for(int i = 0;i < 8;i++){
                 printf("%d",num[i]);
-                printf(" ");
-                i++;}
+                printf(" ");}
 
             printf(" \n");
             n++;
-            i++;
             }
-        i=0;
-        n=0;
 
-        if (k>50){
-            break;
-        }
-        k++;
+        n=0;
 
       }
         
 
     return 0;
 }
-
-//kuch bhi likh na 2.0
